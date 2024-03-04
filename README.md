@@ -14,6 +14,10 @@ Home screen also provides the ability to refresh token. Refresh token call would
 
 This example also shows how to add automation tests for Expo react native app using 'Jest'
 
+For successful login use the following credentials:
+email: 'knuguru@asdf.com',
+password: 'Your_password123.'
+
 ![1](https://github.com/knuguru/JWTAuthenticationWithTests/assets/161977397/6fa5021e-52d2-4bc1-9940-50f4e5ac1381)
 ![2](https://github.com/knuguru/JWTAuthenticationWithTests/assets/161977397/ee5e135f-1b66-4681-87a9-47b0391a69f5)
 ![3](https://github.com/knuguru/JWTAuthenticationWithTests/assets/161977397/28eb8dcd-c209-480d-97bc-9b9e3d7f7d5e)
